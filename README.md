@@ -4,7 +4,7 @@
 ![Followers](https://img.shields.io/github/followers/CookerCandle?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/CookerCandle?label=Stars&style=social)
 
-[![header](https://github.com/CookerCandle/CookerCandle/blob/main/assets/developer.gif)]
+[![header](https://github.com/CookerCandle/CookerCandle/blob/main/assets/developer.gif)](https://github.com/CookerCandle)
 ## About Me 👨‍🦱
 My name is CookerCandle, and I am a backend developer. I write code in Python and create Telegram bots.
 
