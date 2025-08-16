@@ -1,37 +1,17 @@
-# Hello! I'm CookerCandle 😊
+<h1 align="center">Hi 👋, I'm Cooker</h1>
+<h3 align="center">Backend developer from Uzbekistan</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CookerCandle&color=blue)
-![Followers](https://img.shields.io/github/followers/CookerCandle?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/CookerCandle?label=Stars&style=social)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cookercandle" alt="cookercandle" /></a> </p>
 
-[![header](https://github.com/CookerCandle/CookerCandle/blob/main/assets/developer.gif)](https://github.com/CookerCandle)
-## About Me 👨‍🦱
-My name is CookerCandle, and I am a backend developer. I write code in Python and create Telegram bots.
+- 📫 How to reach me **jamoliddingafurov3223@gmail.com**
 
-## Contact 📲
-- 📧 Email: jamoliddingafurov3223@gmail.com
-- [![Steam Profile](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/CookerCandle)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/CookerCandle)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/cookercandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cookercandle" height="30" width="40" /></a>
+</p>
 
-## Skills👨‍💻
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## Projects🐍
-### Project №1🤖
-A Telegram bot that searches for courses for people who want to learn something new.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cookercandle&show_icons=true&locale=en" alt="cookercandle" /></p>
 
-### Project №2🤖
-A Telegram bot that conducts quizzes.
-
-## Education 📖
-- Completed full-stack courses
-
-## Certificates and Awards 📜
-- Multiple certificates
-
-## Hobbies and Interests 🍃
-I am interested in everything related to the IT world and am constantly learning new things.
-
-## Conclusion 👏
-Thank you for visiting my profile! I look forward to new connections and interesting opportunities.
